@@ -1,1 +1,14 @@
-/* This is a comment */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    background-color: aquamarine;
+    
+}
+
+p{
+    background-color: burlywood;
+}
